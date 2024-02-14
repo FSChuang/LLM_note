@@ -1,4 +1,4 @@
-# Some substantial advancements through the past year
+# Some substantial advancements of Multimodal Large Language Models (MM-LLMs) through the past year
 <p align = "center">
   Here's the paper ->
   <a href="https://arxiv.org/abs/2401.13601">Paper Link</a>
